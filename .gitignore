@@ -1,0 +1,13 @@
+# Rust
+/target/
+*.rs.bk
+*.rs.save
+*.rs.swp
+*.rs.backup
+*.lock
+
+# Node.js
+demo/harmony-demo/node_modules/
+demo/harmony-demo/dist/
+demo/harmony-demo/.next/
+demo/harmony-demo/.cache/
